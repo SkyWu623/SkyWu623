@@ -4,17 +4,16 @@
 <ul>
     <li> 目前就讀於 <strong>鶯歌國中</strong>。</li>
     <li> 目標是未來能就讀於 <strong>新北高工 / 資訊科</strong>。</li>
-    <li> 我對 <strong>網頁開發、AI</strong> 充滿熱情。</li>
-    <li> 目前正在深入學習 <code style="background-color: #f1f1f1; padding: 2px 6px; border-radius: 4px;">C#</code>。</li>
+    <li> 目前正在學習 <code style="background-color: #f1f1f1; padding: 2px 6px; border-radius: 4px;">C#</code>。</li>
 </ul>
 
 <hr />
 
 <h3> 興趣與日常 (My Hobbies)</h3>
-<p>除了寫程式之外，我也熱愛這些事物：</p>
+<p>除了寫程式之外，我也喜歡：</p>
 <ul>
-    <li> <strong>羽球</strong>：每週固定打球，享受打羽毛球的快感！</li>
-    <li> <strong>書法</strong>：專注於<strong>行楷</strong>，在筆畫間尋找專注。</li>
+    <li> <strong>羽球</strong>：每週固定打球，最喜歡的運動是羽球！</li>
+    <li> <strong>書法</strong>：專注於<strong>行楷</strong>。</li>
     <li> <strong>動漫狂熱</strong>：身為資深動漫迷（開玩笑的）：
         <ol>
             <li> <strong>火影忍者</strong></li>
