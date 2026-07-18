@@ -4,7 +4,7 @@
 <ul>
     <li> 目前就讀於 <strong>鶯歌國中</strong>。</li>
     <li> 目標是未來能就讀於 <strong>新北高工 / 資訊科</strong>。</li>
-    <li> 目前正在學習 <code style="background-color: #f1f1f1; padding: 2px 6px; border-radius: 4px;">C#</code>。</li>
+    <li> 目前正在學習 <code style="background-color: #f1f1f1; padding: 2px 6px; border-radius: 4px;">C#，但只是很普通的初學者</code>。</li>
 </ul>
 
 <hr />
@@ -16,6 +16,7 @@
     <li> <strong>書法</strong>：專注於<strong>行楷</strong>。</li>
     <li> <strong>動漫狂熱</strong>：身為資深動漫迷（開玩笑的）：
         <ol>
+            <h>我最喜歡的動漫大部分都是比較老的:</h>
             <li> <strong>火影忍者</strong></li>
             <li><strong>鬼滅之刃</strong></li>
             <li> <strong>閃電霹靂車</strong></li>
@@ -23,10 +24,9 @@
             <li> <strong>灌籃高手</strong></li>
         </ol>
     </li>
+    <li> <strong>此外</strong>：我也喜歡做模型，主要是做萬代、青島、樂高。其實我也很常塗裝、噴漆...</li>
 </ul>
-
 <hr />
-
 <h3> 我的技能樹 (Tech Stack)</h3>
 <p>
     <img src="https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
