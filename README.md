@@ -1,55 +1,100 @@
-<h1>👋 哈囉，我是 SkyWu !</h1>
-
-<h3> 關於我</h3>
-<ul>
-    <li> 目前就讀於 <strong>鶯歌國中</strong>。</li>
-    <li> 目標是未來能就讀於 <strong>新北高工 / 資訊科</strong>。</li>
-    <li> 目前正在學習 <code style="background-color: #f1f1f1; padding: 2px 6px; border-radius: 4px;">C#，但只是很普通的初學者</code>。</li>
-</ul>
-
-<hr />
-
-<h3> 興趣與日常 (My Hobbies)</h3>
-<p>除了寫程式之外，我也喜歡：</p>
-<ul>
-    <li> <strong>羽球</strong>：每週固定打球，最喜歡的運動是羽球！</li>
-    <li> <strong>書法</strong>：專注於<strong>行楷</strong>。</li>
-    <li> <strong>動漫狂熱</strong>：身為資深動漫迷（開玩笑的）：
-        <ol>
-            <h>我最喜歡的動漫大部分都是比較老的:</h>
-            <li> <strong>火影忍者</strong></li>
-            <li><strong>鬼滅之刃</strong></li>
-            <li> <strong>閃電霹靂車</strong></li>
-            <li> <strong>七龍珠</strong></li>
-            <li> <strong>灌籃高手</strong></li>
-        </ol>
-    </li>
-    <li> <strong>此外</strong>：我也喜歡做模型，主要是做萬代、青島、樂高。其實我也很常塗裝、噴漆...</li>
-</ul>
-<hr />
-<h3> 我的技能樹 (Tech Stack)</h3>
-<p>
-    <img src="https://img.shields.io/badge/csharp-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<!-- 設定語言切換錨點 -->
+<p align="right">
+  <a href="#-哈囉我是-skywu-">🇹🇼 中文</a> | 
+  <a href="#-hello-im-skywu-">🇺🇸 English</a>
 </p>
 
-<hr />
+# 👋 哈囉，我是 SkyWu !
 
-<h3> GitHub 數據統計 (GitHub Stats)</h3>
-<table border="0" cellpadding="0" cellspacing="0">
-    <thead>
-        <tr>
-            <th align="center"> 我的 GitHub 統計</th>
-            <th align="center"> 常用語言比例</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=SkyWu623&show_icons=true&theme=radical" width="400px" alt="GitHub Stats" />
-            </td>
-            <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyWu623&layout=compact&theme=radical" width="400px" alt="Top Languages" />
-            </td>
-        </tr>
-    </tbody>
-</table>
+### 關於我
+* 🏫 目前就讀於 **鶯歌國中**。
+* 🎯 目標是未來能就讀於 **新北高工 / 資訊科**。
+* 💻 目前正在學習 `C#`，但只是很普通的初學者。
+
+---
+
+### 興趣與日常 (My Hobbies)
+除了寫程式之外，我也喜歡：
+* 🏸 **羽球**：每週固定打球，最喜歡的運動是羽球！
+* ✍️ **書法**：專注於**行楷**。
+* 🤖 **模型與塗裝**：喜歡做模型，主要是萬代（Bandai）、青島（Aoshima）和樂高（Lego）。我很常進行模型塗裝與噴漆喔！
+* 🎬 **動漫狂熱**：身為資深動漫迷（開玩笑的），我最喜歡的動漫大部分都是比較經典的：
+  1. **火影忍者**
+  2. **鬼滅之刃**
+  3. **閃電霹靂車**
+  4. **七龍珠**
+  5. **灌籃高手**
+
+---
+
+### 我的技能樹 (Tech Stack)
+
+### 🖥️ 核心技術 (Core Stack)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC292B.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-%23437299.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🧰 開發工具 (Tools)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+### 🐱 我小時候的語言 (Before)
+![Scratch](https://img.shields.io/badge/Scratch-%23FF8C1A.svg?style=for-the-badge&logo=scratch&logoColor=white)
+
+---
+
+### 🐍 我的 GitHub 貢獻貪吃蛇
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkyWu623/SkyWu623/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkyWu623/SkyWu623/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SkyWu623/SkyWu623/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br />
+<hr />
+<br />
+
+<!-- 英文版開頭 -->
+# 👋 Hello, I'm SkyWu !
+
+### About Me
+* 🏫 Currently studying at **Yingge Junior High School**.
+* 🎯 Future Goal: Studying **Information Technology** at **New Taipei Industrial Vocational High School**.
+* 💻 Currently learning `C#` (just a passionate beginner!).
+
+---
+
+### Hobbies & Interests
+Apart from coding, I also enjoy:
+* 🏸 **Badminton**: I play every week—it's my absolute favorite sport!
+* ✍️ **Calligraphy**: Focused on **Xingkai (Semi-cursive script)**.
+* 🤖 **Model Kits & Painting**: I love building models, especially Bandai, Aoshima, and Lego. I do a lot of custom painting and airbrushing too!
+* 🎬 **Anime Enthusiast**: A huge fan of classic anime, including:
+  1. **Naruto**
+  2. **Demon Slayer**
+  3. **Future GPX Cyber Formula**
+  4. **Dragon Ball**
+  5. **Slam Dunk**
+
+---
+
+### Tech Stack
+
+### 🖥️ Core Stack
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC292B.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-%23437299.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🧰 Tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+### 🐱 My Childhood Language (Before)
+![Scratch](https://img.shields.io/badge/Scratch-%23FF8C1A.svg?style=for-the-badge&logo=scratch&logoColor=white)
+
+---
+
+### 🐍 My GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkyWu623/SkyWu623/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkyWu623/SkyWu623/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SkyWu623/SkyWu623/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
