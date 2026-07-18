@@ -5,25 +5,29 @@
 </p>
 
 # 👋 哈囉，我是 SkyWu !
-
+> 🎂出生於 6 月 23 日。是一位來自新北市的國中生。
 ### 關於我
-* 🏫 目前就讀於 **鶯歌國中**。
+* 🏫 目前就讀於 **鶯歌國中**的國二(所以有點中二)。
 * 🎯 目標是未來能就讀於 **新北高工 / 資訊科**。
 * 💻 目前正在學習 `C#`，但只是很普通的初學者。
+
 
 ---
 
 ### 興趣與日常 (My Hobbies)
 除了寫程式之外，我也喜歡：
-* 🏸 **羽球**：每週固定打球，最喜歡的運動是羽球！
-* ✍️ **書法**：專注於**行楷**。
-* 🤖 **模型與塗裝**：喜歡做模型，主要是萬代（Bandai）、青島（Aoshima）和樂高（Lego）。我很常進行模型塗裝與噴漆喔！
-* 🎬 **動漫狂熱**：身為資深動漫迷（開玩笑的），我最喜歡的動漫大部分都是比較經典的：
+*  **羽球**：每週固定打球，最喜歡的運動是羽球！
+*  **書法**：專注於**行楷**。
+*  **主機電動**：我喜歡玩任天堂的Wii(很多人不知道這是啥，所以放了圖片:)
+  ![Wii](https://upload.wikimedia.org/wikipedia/commons/f/f3/Wii-Console.png)
+*  **模型與塗裝**：喜歡做模型，主要是萬代（Bandai）、青島（Aoshima）和樂高（Lego）。我很常進行模型塗裝與噴漆喔！
+*  **動漫狂熱**：身為資深動漫迷（開玩笑的），我最喜歡的動漫大部分都是比較經典的：
   1. **火影忍者**
   2. **鬼滅之刃**
-  3. **閃電霹靂車**
-  4. **七龍珠**
-  5. **灌籃高手**
+  3. **閃電霹靂車**(下面有圖片)
+  5. **七龍珠**
+    ![car](https://s.yimg.com/ny/api/res/1.2/ioJY3HbJnI2FoRyX.zoqQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/en/cars_tvbs_com_tw_230/3ee9d2dca2a237b151282673702c26d2)
+  6. **灌籃高手**
 
 ---
 
@@ -55,7 +59,7 @@
 
 <!-- 英文版開頭 -->
 # 👋 Hello, I'm SkyWu !
-
+> 🎂 Born on June 23rd. A junior high school student from New Taipei City.
 ### About Me
 * 🏫 Currently studying at **Yingge Junior High School**.
 * 🎯 Future Goal: Studying **Information Technology** at **New Taipei Industrial Vocational High School**.
@@ -65,10 +69,11 @@
 
 ### Hobbies & Interests
 Apart from coding, I also enjoy:
-* 🏸 **Badminton**: I play every week—it's my absolute favorite sport!
-* ✍️ **Calligraphy**: Focused on **Xingkai (Semi-cursive script)**.
-* 🤖 **Model Kits & Painting**: I love building models, especially Bandai, Aoshima, and Lego. I do a lot of custom painting and airbrushing too!
-* 🎬 **Anime Enthusiast**: A huge fan of classic anime, including:
+*  **Badminton**: I play every week—it's my absolute favorite sport!
+*  **Calligraphy**: Focused on **Xingkai (Semi-cursive script)**.
+* **Electronic console**: I like playing Nintendo's Wii.
+*  **Model Kits & Painting**: I love building models, especially Bandai, Aoshima, and Lego. I do a lot of custom painting and airbrushing too!
+*  **Anime Enthusiast**: A huge fan of classic anime, including:
   1. **Naruto**
   2. **Demon Slayer**
   3. **Future GPX Cyber Formula**
