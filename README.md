@@ -1,8 +1,4 @@
-<!-- 設定語言切換錨點 -->
-<p align="right">
-  <a href="#-哈囉我是-skywu-">🇹🇼 中文</a> | 
-  <a href="#-hello-im-skywu-">🇺🇸 English</a>
-</p>
+[English](https://github.com/SkyWu623/SkyWu623/blob/main/English%20read%20me.md)
 
 # 👋 哈囉，我是 SkyWu !
 > 🎂出生於 6 月 23 日。是一位來自新北市的國中生。
