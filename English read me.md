@@ -1,3 +1,4 @@
+[chinese](https://github.com/SkyWu623/SkyWu623/blob/main/README.md)
 # 👋 Hello, I'm SkyWu !
 > 🎂 Born on June 23rd. A junior high school student from New Taipei City.
 ### About Me
