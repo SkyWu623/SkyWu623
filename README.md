@@ -52,6 +52,6 @@
 <br />
 <hr />
 <br />
+我覺得我壓力不怎麼大
 
-<!-- 英文版開頭 -->
-
+![我覺得我壓力不怎麼大](https://raw.githubusercontent.com/zhaoolee/ChineseBQB/master/README/000000024.png)
