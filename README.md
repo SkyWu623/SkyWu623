@@ -32,10 +32,10 @@
 ### 🖥️ 核心技術 (Core Stack)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC292B.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-%23437299.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 🧰 開發工具 (Tools)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-%23437299.svg?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 🐱 我小時候的語言 (Before)
 ![Scratch](https://img.shields.io/badge/Scratch-%23FF8C1A.svg?style=for-the-badge&logo=scratch&logoColor=white)
